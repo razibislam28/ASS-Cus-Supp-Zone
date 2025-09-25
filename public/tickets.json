@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still facing issues.",
+    "customer": "John Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Gateway Timeout",
+    "description": "Payment is not going through for some users. They receive a timeout error at checkout.",
+    "customer": "Emily Johnson",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2024-01-17"
+  },
+  {
+    "id": 1003,
+    "title": "Unable to Upload Documents",
+    "description": "Customer cannot upload verification documents. The upload button is unresponsive.",
+    "customer": "Michael Brown",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": 1004,
+    "title": "Mobile App Crashing",
+    "description": "iOS app crashes on startup for version 3.2.1.",
+    "customer": "Sophia Wilson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-01-22"
+  },
+  {
+    "id": 1005,
+    "title": "Email Notifications Delayed",
+    "description": "System emails are being delivered hours late. Customers are complaining about delays.",
+    "customer": "David Lee",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2024-01-25"
+  },
+  {
+    "id": 1006,
+    "title": "Dashboard Not Loading",
+    "description": "Customer dashboard is stuck on loading screen after login.",
+    "customer": "Olivia Martinez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-27"
+  },
+  {
+    "id": 1007,
+    "title": "Two-Factor Authentication Not Working",
+    "description": "2FA codes are not being sent to the user's mobile device.",
+    "customer": "Liam Johnson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-02-01"
+  },
+  {
+    "id": 1008,
+    "title": "Slow Website Performance",
+    "description": "Website loading time has increased significantly for multiple users.",
+    "customer": "Ava Davis",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2024-02-03"
+  },
+  {
+    "id": 1009,
+    "title": "Password Reset Link Expired",
+    "description": "Customers report that the password reset link expires too quickly.",
+    "customer": "Ethan White",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-02-06"
+  },
+  {
+    "id": 1010,
+    "title": "Subscription Renewal Failed",
+    "description": "Recurring subscription renewal payments are failing for some customers.",
+    "customer": "Mia Taylor",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-02-08"
+  }
+]
